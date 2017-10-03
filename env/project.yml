@@ -58,7 +58,7 @@ engines:
       tk-multi-launchnuke: '@launch_nuke'
       tk-multi-launchnukestudio: '@launch_nukestudio'
       tk-multi-launchphotoshopcc: '@launch_photoshopcc'
-      tk-multi-launchsoftimage: '@launch_softimage'
+#      tk-multi-launchsoftimage: '@launch_softimage'
       tk-multi-screeningroom: '@launch_screeningroom'
     collapse_rules:
     - {button_label: $app, match: Launch $app, menu_label: None}
